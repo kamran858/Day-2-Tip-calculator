@@ -66,4 +66,5 @@ This is Day 2 of my 100 Days of Code Python learning journey. It focuses on data
 
 -----
 
-*Created as part of 100 Days of Code - Python Bootcamp*
+## Credits
+“This project is part of the 100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu. I followed the course material to practice and improve my Python skills.”
